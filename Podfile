@@ -7,6 +7,7 @@ target 'TestGA' do
 
   # Pods for TestGA
   pod 'Google/Analytics'
+  pod 'KeychainAccess'
 
   target 'TestGATests' do
     inherit! :search_paths
