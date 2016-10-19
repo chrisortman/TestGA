@@ -1,4 +1,4 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
-gem 'cocoapods', '~> 1.1.0.rc.3'
+gem 'cocoapods', :git => 'https://github.com/plu/CocoaPods.git', :branch => 'inherit_framework_search_path'
