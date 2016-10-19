@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='TestGAUITests.xctest' tests='3' failures='0'>
+  <testsuite name='TestGATests.TestGATests' tests='2' failures='0'>
+    <testcase classname='TestGATests.TestGATests' name='testExample' time='0.002'/>
+    <testcase classname='TestGATests.TestGATests' name='testPerformanceExample' time='0.269'/>
+  </testsuite>
+  <testsuite name='TestGAUITests.TestGAUITests' tests='1' failures='0'>
+    <testcase classname='TestGAUITests.TestGAUITests' name='testExample' time='5.541'/>
+  </testsuite>
+</testsuites>
